@@ -5,7 +5,7 @@ Official repository of ODG-CLIP, one of the first works in Open Domain Generaliz
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/pdf/2404.00710)
 [![poster](https://img.shields.io/badge/Poster-yellow)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-poster.pdf)
 [![ppt](https://img.shields.io/badge/PPT-orange)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-ppt.pptx)
-[![video](https://img.shields.io/badge/Presentation-darkred)](https://www.youtube.com/watch?v=AWUtIgpo6oM)
+[![video](https://img.shields.io/badge/Video-darkred)](https://www.youtube.com/watch?v=AWUtIgpo6oM)
 
 ## Abstract
 <img src="https://github.com/mainaksingha01/ODG-CLIP/blob/master/images/teaser.png" width="1000">
