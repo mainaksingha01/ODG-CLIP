@@ -3,7 +3,7 @@
 Official repository of ODG-CLIP, one of the first works in Open Domain Generalization using pre-trained vision-language model (VLM) [CLIP](https://arxiv.org/abs/2103.00020) to focus on the completely unlablled real-world open samples.
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/pdf/2404.00710)
-[![poster](https://img.shields.io/badge/Poster-sky)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-poster.pdf)
+[![poster](https://img.shields.io/badge/Poster-skyblue)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-poster.pdf)
 [![ppt](https://img.shields.io/badge/PPT-orange)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-ppt.pptx)
 [![video](https://img.shields.io/badge/Presentation-darkred)](https://www.youtube.com/watch?v=AWUtIgpo6oM)
 
