@@ -1,0 +1,8 @@
+transformers==4.29.2 diffusers invisible-watermark
+torch==1.11.0
+torchvision==0.12.0
+ftfy
+regex
+wilds
+gdown
+ 
