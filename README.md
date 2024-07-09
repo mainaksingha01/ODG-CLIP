@@ -2,6 +2,8 @@
 
 Official repository of ODG-CLIP, one of the first works in Open Domain Generalization using pre-trained vision-language model (VLM) [CLIP](https://arxiv.org/abs/2103.00020) to focus on the completely unlablled real-world open samples.
 
+[![paper](https://img.shields.io/badge/Conference-Paper-blue)](https://openaccess.thecvf.com/content/CVPR2024/papers/Singha_Unknown_Prompt_the_only_Lacuna_Unveiling_CLIPs_Potential_for_Open_CVPR_2024_paper.pdf)
+[![supplement](https://img.shields.io/badge/Supplementary-Material-F9D371)](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Singha_Unknown_Prompt_the_CVPR_2024_supplemental.pdf)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/pdf/2404.00710)
 [![poster](https://img.shields.io/badge/Poster-yellow)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-poster.pdf)
 [![ppt](https://img.shields.io/badge/PPT-orange)](https://github.com/mainaksingha01/ODG-CLIP/blob/master/docs/odgclip-ppt.pptx)
@@ -40,10 +42,11 @@ $ python pacs.py
 Please cite the paper if you use our work . Thanks.
 
 ```
-@article{singha2024unknown,
-  title={Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization},
+@inproceedings{singha2024unknown,
+  title={Unknown Prompt the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization},
   author={Singha, Mainak and Jha, Ankit and Bose, Shirsha and Nair, Ashwin and Abdar, Moloud and Banerjee, Biplab},
-  journal={arXiv preprint arXiv:2404.00710},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13309--13319},
   year={2024}
 }
 ```
