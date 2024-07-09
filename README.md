@@ -1,4 +1,4 @@
-# Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization
+# Unknown Prompt, the only Lacuna: Unveiling CLIP’s Potential for Open Domain Generalization (CVPR'24)
 
 Official repository of ODG-CLIP, one of the first works in Open Domain Generalization using pre-trained vision-language model (VLM) [CLIP](https://arxiv.org/abs/2103.00020) to focus on the completely unlablled real-world open samples.
 
