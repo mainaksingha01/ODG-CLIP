@@ -19,6 +19,17 @@ errors in detecting target open samples in the absence of prior knowledge. Addre
 
 <img src="https://github.com/mainaksingha01/ODG-CLIP/blob/master/images/architecture.png" width="800">
 
+## How to install
+
+### Create your environment:
+
+```bash
+$ conda create -n odgclip python=3.8
+$ conda activate odgclip
+$ conda install pytorch==1.12.1 torchvision==0.13.1 cudatoolkit=10.2 -c pytorch
+$ pip install -r requirements.txt
+```
+
 ## Code
 
  - First of all, clone the awesome toolbox of [dassl](https://github.com/KaiyangZhou/Dassl.pytorch/tree/master/dassl) inside this repo.
