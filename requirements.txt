@@ -1,4 +1,4 @@
-transformer==4.29.2 diffusers invisible-watermark
+transformers==4.29.2 diffusers invisible-watermark
 scikit-learn
 tqdm
 ftfy
